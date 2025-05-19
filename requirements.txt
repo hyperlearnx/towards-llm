@@ -1,2 +1,3 @@
-python
 pytest
+scikit-learn
+pandas
